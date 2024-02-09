@@ -1,0 +1,40 @@
+From_country,To_country,Count
+Afghanistan,Pakistan,2
+Bangladesh,India,979
+Bangladesh,Indonesia,859
+Bangladesh,Malaysia,"1,730"
+Bangladesh,Nepal,36
+Bangladesh,Pakistan,3
+Bangladesh,Thailand,328
+Bangladesh,Iran,1
+India,Bangladesh,360
+India,Indonesia,1
+India,Malaysia,15
+India,Nepal,33
+India,Pakistan,156
+India,Thailand,3
+Indonesia,Bangladesh,9
+Indonesia,Malaysia,134
+Indonesia,Pakistan,13
+Indonesia,Iran,1
+Malaysia,Bangladesh,229
+Malaysia,India,34
+Malaysia,Indonesia,30
+Malaysia,Nepal,1
+Malaysia,Pakistan,6
+Malaysia,Sri Lanka,2
+Malaysia,Thailand,19
+Malaysia,Iran,2
+Malaysia,Afghanistan,1
+Nepal,India,6
+Pakistan,India,4
+Pakistan,Malaysia,12
+Pakistan,Iran,12
+Pakistan,Tajikistan,30
+Sri Lanka,Pakistan,1
+Thailand,Malaysia,11
+Thailand,Sri Lanka,1
+Tajikistan,Pakistan,2
+Iran,Bangladesh,1
+Iran,Pakistan,7
+Iran,Tajikistan,6
